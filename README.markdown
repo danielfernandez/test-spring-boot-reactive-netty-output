@@ -1,6 +1,13 @@
 Test repository for Spring Web Reactive + Netty output behaviour
 ----------------------------------------------------------------
 
+Issue Links:
+
+   * https://jira.spring.io/browse/SPR-14943
+   * https://jira.spring.io/browse/SPR-14944
+   * https://jira.spring.io/browse/SPR-14945
+
+
 This repository is aimed at testing the differences in output behaviour
 between Spring Boot + Spring Web Reactive applications running on Netty and on other supported servers.
 
